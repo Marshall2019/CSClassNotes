@@ -1,6 +1,16 @@
-1. Capacity
-*system capacity
-* ECC capacity
+# Current problems
 
-2. Errors / capacity
-3. Timeliness
+## Capacity
+* system capacity
+* ECC capacity
+## Errors / capacity
+## Timeliness
+
+# Cause
+* NA
+
+## Wrong location
+## Wrong situation
+## Wrong report
+## ECC mishears
+### mistypes
