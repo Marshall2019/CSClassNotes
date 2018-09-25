@@ -27,3 +27,7 @@ Time for personnel distribution is limited.
 * Phone protocal
 * Double check
 * State recording for vehicles and personnel
+
+## RLS Links
+* http://www.firefighterclosecalls.com/dispatch-errors-add-up/
+* https://www.emergencydispatch.org/articles/dispatchdisasters1.htm
