@@ -1,12 +1,12 @@
-### Current problems
+# Current problems
 
-#### Capacity
+## Capacity
 * system capacity
 * ECC capacity
-#### Errors / capacity
+### Errors / capacity
 #### Timeliness
 
-## Cause
+##### Cause
 * NA
 * Wrong location
 * Wrong situation
