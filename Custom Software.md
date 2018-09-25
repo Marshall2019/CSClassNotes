@@ -7,7 +7,5 @@ Custom software is the software that is specifically designed for a customer. Th
 A software is designed for a hospital to manage the customers' medical information, such as blood types and allergies.
 
 ### Possible Exam-style Questions
-#### 1
-A law firm has six lawyers and two receptionists. Draw a possible flow chart for lawyers for the client reception software.
-#### 2
-Define the term *Custom Software*
+#### A law firm has six lawyers and two receptionists. Draw a possible flow chart for lawyers for the client reception software.
+#### Define the term **Custom Software**.
