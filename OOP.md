@@ -12,7 +12,7 @@
 * String
 * Integer
 
-# Difference between primitives and objects (In Java)
+## Difference between primitives and objects (In Java)
 
 * Objects automatically choose the length of storage.
 * Objects have methods to be called.
