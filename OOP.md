@@ -19,7 +19,15 @@
 
 ## Relationship between classes and UML diagrams
 
-* Association: a line
-* Generalization / inheritance: an solid line with triangular arrow
-* Implimentation (from interface): dotted lined with triangular arrow
-* Dependence: dotted line with acute arrow
+### Relationships
+#### Association
+* a line
+#### Generalization / inheritance
+* an solid line with triangular arrow
+#### Implimentation (from a interface)
+* dotted lined with triangular arrow
+#### Dependence
+* dotted line with acute arrow
+
+### Notes:
+* This is UML class diagram, so there is no instantiation in it.
