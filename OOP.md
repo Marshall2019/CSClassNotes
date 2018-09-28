@@ -31,6 +31,7 @@
 
 ## Goals for UML diagram
 * Minimize dependencies
+
 More dependence means more complexity; more complexity means more possible errors generated from other classes.
 It also means more difficulty to maintain.
 
