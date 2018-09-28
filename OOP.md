@@ -54,7 +54,7 @@ To decrease the dependency through classes.
 
 * Modularity
 
-Modularity is dividng each levels of design into separatable parts.
+Modularity is dividng each levels of design into separatable parts. It's a kind of abstraction.
 
 To decrease the dependency through modules.
 
