@@ -3,7 +3,7 @@
 ## Criteria A
 
 * Appropriate scenario
-* Conultation with identified client
+* Consultation with identified client
 * Rationale for product
 * Criteria for evaluation
 
