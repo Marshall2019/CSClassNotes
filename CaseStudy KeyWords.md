@@ -36,3 +36,21 @@ Make computers work together so it seems like one computer when it interacts wit
 ## Failover
 
 If a server collapses, another will take its role.
+
+## Global Positioning System
+
+Position locations using a US government service.
+
+Some people don't allow location for application, and rubbers may trick the GPS to go anothr way.
+
+## Load balancing
+
+Separate task from different computers, for example on the server.
+
+* Round robin: computer are choosed one by one.
+* Random: random computer assigned.
+* Least connection.
+
+## Application programming interface
+
+API.
