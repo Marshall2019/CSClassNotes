@@ -9,3 +9,13 @@ A software designed for a hospital to manage the customers' medical information,
 ### Possible Exam-style Questions
 * A law firm has six lawyers and two receptionists. Draw a possible flow chart for lawyers for the client reception software.
 * Define the term **Custom Software**.
+
+# Others
+
+## Cookies
+Cookies
+
+## Future-proof
+System would still be working in the distance future, say 10 years.
+Sometimes budget may not be enough, or people don't want to pay high maintenance cost.
+Clean code, high maintainability and updatability.
