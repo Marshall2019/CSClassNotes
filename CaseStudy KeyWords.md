@@ -17,5 +17,7 @@ Cookies
 
 ## Future-proof
 System would still be working in the distance future, say 10 years.
+
 Sometimes budget may not be enough, or people don't want to pay high maintenance cost.
+
 Clean code, high maintainability and updatability.
