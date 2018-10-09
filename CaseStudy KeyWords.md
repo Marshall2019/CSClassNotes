@@ -29,5 +29,7 @@ Sometimes budget may not be enough, or people don't want to pay high maintenance
 
 Clean code, high maintainability and updatability.
 
-##
+## Cluster server
+
+Make computers work together so it seems like one computer when it interacts with users.
 
