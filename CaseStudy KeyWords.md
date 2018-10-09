@@ -53,4 +53,6 @@ Separate task from different computers, for example on the server.
 
 ## Application programming interface
 
-API.
+The rules for applications to interact.
+
+In the Bangbai EMIS system, it's the interaction between the application and the server.
