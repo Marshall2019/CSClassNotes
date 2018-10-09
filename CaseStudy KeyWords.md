@@ -33,3 +33,6 @@ Clean code, high maintainability and updatability.
 
 Make computers work together so it seems like one computer when it interacts with users.
 
+## Failover
+
+If a server collapses, another will take its role.
