@@ -3,11 +3,11 @@
 ## Primitives
 
 * int 4 bytes
-* char 1 byte
+* char 2 bytes
 * long 8 bytes
 * float 4 bytes
 * double 8 bytes
-* Boolean 1 byte
+* Boolean 1 byte (smallest amount of data allowed to stored in memory)
 
 ## Objects
 
