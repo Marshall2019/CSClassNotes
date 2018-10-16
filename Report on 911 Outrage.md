@@ -19,3 +19,29 @@ They can also negotiate with the local ISP to set up an alarm system to warn onc
 They need to add some extensibility to their original code, creating more interfaces in order to let the two systems communicate well, if introduced.
 
 They should extend their capacity when the citizen’s call numbers are approaching to the maximum limit of the system.
+
+# Class notes: analysing the problems
+
+## Database Error: no more free keys
+
+* TTD: test driven development
+- Unit tests
+At the beginning you write test for every single requirement, so you won't forget every detail about the program while you are programming.
+
+## Component was removed
+
+Component was removed from a computer and not replaced.
+
+* Protocal
+
+There need to be a protocal for removing components. There should be a agreed rules for the system.
+
+When designing a system, it's important not only to deal with computers, but also the who system, including even the people.
+
+* Redundancy 
+
+There need to be some redundancy for computers.
+
+There need to be a protocal for removing components. There should be a agreed rules for the system.There need to be some redundancy for computers.
+
+Even human should be redundant.
