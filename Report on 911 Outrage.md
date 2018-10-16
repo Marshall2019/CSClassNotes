@@ -45,3 +45,9 @@ There need to be some redundancy for computers.
 There need to be a protocal for removing components. There should be a agreed rules for the system.There need to be some redundancy for computers.
 
 Even human should be redundant.
+
+## Errors caused by upgrading
+
+Put alarms into a system. Raise error if no one is answering the 911 call.
+
+Imagine where the error is possible when designing the system.
