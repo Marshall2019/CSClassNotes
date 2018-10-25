@@ -25,8 +25,15 @@ In a autonomous car only city, communnication would be extremely powerful, becau
 
 ### (b)
 
+Low importance is required.
 
-# 4) what is a question for this year’s case study that uses the same why (rationale or connection)?
+Trolley Problem doesn't have a solution until now, because different ethical rules have different answers on that. It's quite hard for a computer to think about that.
+
+It's ambigious whether computer should pay any ethical responsibilities, because computers needs to have a mind to make ethical decisions. As Yuval Noah Harari states, we still don't know what mind is, and it's a important topic for research. We don't know whether computer have a mind to pay responsibilities, so we don't know whether to blame the consequence of each decision or not.
+
+CNN follows the training input of human drivers. A rational decision is to let the human drivers to be as ethical as possible, and let CNN mimic the ethical decisions.
+
+## 4) what is a question for this year’s case study that uses the same why (rationale or connection)?
 
 
 ## References
