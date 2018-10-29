@@ -11,7 +11,7 @@ VTV stands for vehicle to vehicle, and is a protocal for information transfer be
 
 ## 2) why was that question chosen? (What is the rationale or connection to the case study?)
 
-The topic discussed is related to some of the concepts and decisions in the case study. The examiner wants to check our understanding towards them.
+The topic discussed is related to some of the concepts and decisions in the case study. Especially some protocals and some advanced moral issue related to the technology. The examiner wants to check our understanding towards them. 
 
 ## 3) what is the answer to that question?
 
@@ -34,7 +34,8 @@ It's ambigious whether computer should pay any ethical responsibilities, because
 CNN follows the training input of human drivers. A rational decision is to let the human drivers to be as ethical as possible, and let CNN mimic the ethical decisions.
 
 ## 4) what is a question for this year’s case study that uses the same why (rationale or connection)?
-
+I beleive there could be more moral questions related to EMIS. For example, when the system receives request of emergency issue of the same emergency level but only limited resources available, which emergency location would the ambulance going? How to select the target without lossing too much time hesitating? Or is there a better solution to make sure that the resources are enough for emergency dispatch.
+The questions for this year's case study, there could also be questions about transmittion protocals such as HTTP and its pros and cons when connecting old CAD system to EMIS system which is mentioned in the reading material.
 
 ## References
 
