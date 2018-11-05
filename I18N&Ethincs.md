@@ -16,8 +16,8 @@ Make a file containing all the lauguages settings for a kind of language.
 * Don't cheat, don't steal.
 * Morality comes first before profit.
 
-# Engineering
+## Engineering
 * Do not harm. (Copied from Hippocratic Oath)
 * Take warnings seriously, do comprehensive risk assessment.
 
-# SW Engineering
+## SW Engineering
