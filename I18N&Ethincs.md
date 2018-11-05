@@ -21,3 +21,7 @@ Make a file containing all the lauguages settings for a kind of language.
 * Take warnings seriously, do comprehensive risk assessment.
 
 ## SW Engineering
+
+## Facebook – Cambridge Analytica data scandal
+
+* Caused many reduction of facebook's stock.
