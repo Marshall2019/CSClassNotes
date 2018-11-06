@@ -25,3 +25,4 @@ Make a file containing all the lauguages settings for a kind of language.
 ## Facebook – Cambridge Analytica data scandal
 
 * Caused many reduction of facebook's stock.
+* Don't always think about positive results.
