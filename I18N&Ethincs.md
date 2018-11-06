@@ -26,3 +26,6 @@ Make a file containing all the lauguages settings for a kind of language.
 
 * Caused many reduction of facebook's stock.
 * Don't always think about positive results.
+* Plan to deal with potential problem.
+* Be honest with the users.
+* Protect user data.
