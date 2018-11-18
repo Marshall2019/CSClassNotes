@@ -11,6 +11,9 @@ THe EMIS system is that it automatiaclly collects and keeps the personal data fo
 By examining the above statements, outline the importance that the technical team should give to this ethical problem.
 
 ## Algorithm
-
+a) Define Load balancing algorithm
+b) List the difference between round-robin and weighted round-robin
 
 ## Understanding Advanced Technology in It
+a) List 2 advantages of using VoIP protocal in the EMIS.
+b) How to acheive zero down time using DAS technology?
